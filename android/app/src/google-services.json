@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33451087080",
+    "project_id": "videocoffer-39c64",
+    "storage_bucket": "videocoffer-39c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33451087080:android:4dde97a5bdc587e8d5e55d",
+        "android_client_info": {
+          "package_name": "com.example.videocoffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33451087080-emplpktdae8372iuk6k7hk2encfsptc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbg7uNsw9xS0DHa7otspqVOZYt2fX86os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33451087080-emplpktdae8372iuk6k7hk2encfsptc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
